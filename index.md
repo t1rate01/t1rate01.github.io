@@ -31,11 +31,11 @@ You can also `quote`in the middle of a sentence.
 Colours are achieved using the `#rgb(R,G,B)` for example. HEX and HSL is also supported. Here is a randomly picked colour `#rgb(12, 100, 50)`  
   
 Relative link example [here](/index.md)  
-This points back to this file.
+It pointed back to this file, lol.
 
 Here is a photo  
 ![Photo](https://www.japantimes.co.jp/wp-content/uploads/2020/06/np_file_17403-200x200.jpeg)  
-> It's propably a cat.
+> It's propably a cat. Atleast it was when I chose it.
   
   
   
