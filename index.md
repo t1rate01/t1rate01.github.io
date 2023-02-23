@@ -45,9 +45,9 @@ Here is a photo
 2. Like so  
 3. and like so  
   
-* This is a nested list
-         - here is a nested list item
-                    - here is an even more nested list item
+* This is a nested list  
+         - here is a nested list item  
+                    - here is an even more nested list item  
   
 Here is a task list:
 - [ ] This is an uncompleted task
