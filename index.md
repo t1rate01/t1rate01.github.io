@@ -47,7 +47,7 @@ Here is a photo
   
 * This is a nested list  
          - here is a nested list item  
-                    - here is an even more nested list item  
+                            - here is an even more nested list item  
   
 Here is a task list:
 - [ ] This is an uncompleted task
@@ -55,7 +55,7 @@ Here is a task list:
 - [ ] \(Optional) parenthesis
   
 You can mention github users with the @ symbol.   
-@t1rate01 created this project.
+@t1rate01 created this project. This mention doesn't do anything here.
   
 Well read so far! :+1:  [^1] 
 
