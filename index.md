@@ -28,7 +28,7 @@ The empty space between is for your text content.
 > This is a quote.  
 You can also `quote`in the middle of a sentence.
 
-Colours are achieved using the \`rgb(R,G,B)\` for example. HEX and HSL is also supported. Here is a randomly picked colour `rgb(12, 100, 50)`  
+Colours are achieved using the \`rgb(R,G,B)\` for example. HEX and HSL is also supported. Here is a randomly picked colour `rgb(9, 105, 218)`  
   
 Relative link example [here](/index.md)  
 It pointed back to this file, lol.
