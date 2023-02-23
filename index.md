@@ -25,7 +25,7 @@ These stylings as in order of appearance:
 The empty space between is for your text content.
 ```
   
-> This is a quote.
+> This is a quote.  
 You can also `quote`in the middle of a sentence.
 
 Colours are achieved using the `#rgb(R,G,B)` for example. HEX and HSL is also supported. Here is a randomly picked colour `#rgb(12, 100, 50)`  
@@ -34,9 +34,8 @@ Relative link example [here](/index.md)
 This points back to this file.
 
 Here is a photo  
-![Photo](https://www.japantimes.co.jp/wp-content/uploads/2020/06/np_file_17403-200x200.jpeg)
-  
-It's propably a cat.
+![Photo](https://www.japantimes.co.jp/wp-content/uploads/2020/06/np_file_17403-200x200.jpeg)  
+> It's propably a cat.
 
 - This is a list line began with -
 * This is a list line began with * 
