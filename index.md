@@ -30,6 +30,8 @@ You can also `quote`in the middle of a sentence.
 
 Colours are achieved using the \`rgb(R,G,B)\` for example. HEX and HSL is also supported. Here is a randomly picked colour `rgb(9, 105, 218)`
   
+> Colours are only visualized in issues, pull requests and discussions according to github.
+  
 Relative link example [here](/index.md)  
 It pointed back to this file, lol.
 
