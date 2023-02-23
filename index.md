@@ -55,7 +55,7 @@ Here is a photo
 Here is a task list:
 - [ ] This is an uncompleted task
 - [x] This is a completed task
-- [ ] \(Optional) parenthesis
+- [ ] \(Optional) a task inside parenthesis
   
 You can mention github users with the @ symbol.   
 @t1rate01 created this project. This mention doesn't do anything here.
