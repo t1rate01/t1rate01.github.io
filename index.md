@@ -62,7 +62,7 @@ You can mention github users with the @ symbol.
   
 Well read so far! :+1:  [^1] 
 
-[^1]: That was an emoji by the way, they are supported too. [^2]  
+[^1]: That was an emoji by the way, they are supported too. Not in all browsers though. In a github readme file it would work for example [^2] 
 [^2]: That was a footnote  
   
 <!-- This line is invisible -->
