@@ -4,6 +4,7 @@ Here is a link to the tutorial [Github Markup](https://docs.github.com/en/get-st
 ## The goal is to write a static webpage without using HTML
 ### And to give as many tips as I can while doing it 
     
+
 Basic headings are written with:  
 ```
 Each # symbol corresponds to a heading level, this would be <h1></h1> 
@@ -76,6 +77,9 @@ There was an invisible line just now. Hidden content is written with:
 
 I could write that also by just escaping with \   
 like this : <\!-- --> or even use \*formatting\* symbols and they'd be ignored.  
+
+#### All the tips here are best used in github readme files for showcasing/explaining your projects.  
+A link to how this page looks on a GitHub page [here](https://github.com/t1rate01/t1rate01.github.io/blob/main/index.md) 
   
 
   
